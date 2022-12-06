@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+.back{
+    background-color: white;
+    width: 690px;
+    margin-left: 15px;
+    height: 10000px;
+ 
+}.back1{
+    background-color: white;
+    width: 225px;
+    height: 10000px;
+    margin-left: 750px;
+    margin-top: -933px;
+  
+}
+.judul{
+    text-align: center;
+    color: blue;
+}
+.backgr1{
+    background-color: aqua;
+    width: 500px;
+    height: 270px;
+    margin-left: 20px;
+}
+.gambar1{
+    margin-left: 10px;
+    margin-top: -20px;
+}
+.strr{
+    color: green;
+    margin-left: 270px;
+    margin-top: 0px;
+}
+.strr1{
+    color: red;
+
+}
+.text{
+    margin-top: -200px;
+    margin-left: 270px;
+}
+.st{
+    color: red;
+    margin-left: 270px;
+    margin-top: 0px;
+}
