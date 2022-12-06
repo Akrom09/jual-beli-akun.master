@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+ 
+.back1{
+    background-color: white;
+    width: 950px;
+    height: 10000px;
+    margin-left: 20px;
+    
+}
+.judul{
+    text-align: center;
+    color: blue;
+}
+.backgr1{
+    background-color: aqua;
+    width: 500px;
+    height: 270px;
+    margin-left: 20px;}
